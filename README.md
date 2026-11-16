@@ -3,7 +3,7 @@
 
 Welcome to my internship project repository!
 
-This repository contains the tasks and projects completed during my internship at Auspify Technologies.
+This repository contains the tasks and projects I completed during my internship at Auspify Technologies.
 
 ## Technologies Used
 
@@ -13,18 +13,30 @@ This repository contains the tasks and projects completed during my internship a
 
 ## Internship Tasks
 
-### Task 01 - Landing Page
+### Task 01 – Landing Page
 
-- Created a responsive landing page.
+Created a responsive landing page using HTML and CSS.
+
 - Designed a navigation bar and hero section.
 - Added About Us and Services sections.
 - Created a contact form.
 - Added CSS hover effects.
 - Implemented responsive design.
 
-### Task 02
+[View Task 01 Source Code](./Task1-Landing-Page/)
 
-Coming Soon.
+### Task 02 – Personal Portfolio Website
+
+Developed a personal portfolio website to showcase my education, technical skills, projects and internship experience.
+
+- Created a personal introduction section.
+- Added About Me and Skills sections.
+- Showcased academic and personal projects.
+- Included internship and certification details.
+- Added a contact section with email and LinkedIn profile.
+- Implemented responsive navigation and interactive elements.
+
+[View Task 02 Source Code](./Task2-Portfolio/)
 
 ### Task 03
 
@@ -40,4 +52,4 @@ Auspify Technologies
 
 ## Author
 
-Kavya
+Kavyasri
